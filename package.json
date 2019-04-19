@@ -1,0 +1,23 @@
+{
+  "name": "piping-server-now",
+  "version": "0.1.0-SNAPSHOT",
+  "description": "Piping Server on Now - ZEIT",
+  "private": true,
+  "scripts": {
+    "start": "piping-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "piping-server",
+    "now"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nwtgck/piping-server-now"
+  },
+  "author": "Ryo Ota <nwtgck@gmail.com> (https://github.com/nwtgck)",
+  "license": "MIT",
+  "dependencies": {
+    "piping-server": "^0.10.0"
+  }
+}
