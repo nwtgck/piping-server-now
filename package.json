@@ -18,6 +18,6 @@
   "author": "Ryo Ota <nwtgck@gmail.com> (https://github.com/nwtgck)",
   "license": "MIT",
   "dependencies": {
-    "piping-server": "^0.15.4"
+    "piping-server": "^0.15.5"
   }
 }
